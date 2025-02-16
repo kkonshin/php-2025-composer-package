@@ -2,6 +2,8 @@
 
 declare(strict_types=1);
 
+namespace Kkonshin\Php2025ComposerPackage;
+
 class Api
 {
     public function json(): array
